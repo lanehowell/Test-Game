@@ -1,0 +1,7 @@
+export const BACKGROUND_ASSET_KEYS = Object.freeze({
+    STARTING_MAP_BACKGROUND: 'STARTING_MAP_BACKGROUND'
+})
+
+export const IMAGE_ASSET_KEYS = Object.freeze({
+    DEFAULT_PROFILE: 'DEFAULT_PROFILE'
+})
